@@ -1,0 +1,17 @@
+/* 定义一个名为 highlight-fade 的动画 */
+@keyframes highlight-fade {
+  0% {
+    background-color: rgba(0, 81, 255, 0.5); /* 初始颜色：半透明黄色 */
+    transform: scale(1.02); /* 稍微放大一点点，强化视觉 */
+  }
+  100% {
+    background-color: transparent; /* 结束颜色：透明 */
+    transform: scale(1);
+  }
+}
+
+/* 当元素的 ID 与 URL 的锚点匹配时，执行动画 */
+:target {
+  animation: highlight-fade 20s ease-out; /* 持续2秒 */
+  scroll-margin-top: 100px; /* 防止被顶部导航栏挡住，按需调整数字 */
+}
