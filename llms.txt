@@ -1,0 +1,21 @@
+# Kittyark的站点
+
+> KittyArk 的个人博客——视觉小说汉化与剧情解析。
+
+This is the llms.txt file for Kittyark的站点. It provides a machine-readable directory of published articles and core pages for Large Language Models.
+
+## Core Pages
+- [Home](https://kittyark.github.io/): Main blog entrance and latest post stream.
+- [About](https://kittyark.github.io/about/): Author profile, technical stack, and background.
+- [Archive](https://kittyark.github.io/archive/): Chronological index of all published writings.
+
+## Articles
+- [万物恒常，物事依旧 —— In Case of Emergency](https://kittyark.github.io/posts/in-case-of-emergency-remus-初定稿/)
+- [Outer And Inner Before I Became You You Became Me — 我将是你，而你并不自知](https://kittyark.github.io/posts/outer-inner/)
+- [[V0.451] Splendor & Misery 光辉与苦难 汉化补丁](https://kittyark.github.io/posts/splendor-misery/)
+- [Ediction 行法 — 我们所将得行的法，我们所将何处行的路](https://kittyark.github.io/posts/ediction-22/)
+- [基于拉康精神分析理论结构的In-Case-Of-Emergency](https://kittyark.github.io/posts/in-case-of-emergency/)
+- [[完结] Ediction 行法 汉化补丁](https://kittyark.github.io/posts/ediction_zh/): Don Attico 的视觉小说 Ediction 的 AI 初译 + 完整校对润色汉化补丁发布页。
+
+## Full Text Dump
+- [Full Text Archive](https://kittyark.github.io/llms-full.txt): Complete, concatenated Markdown content of all public articles for full-context ingestion.
